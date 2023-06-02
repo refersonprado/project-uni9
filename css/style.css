@@ -658,6 +658,14 @@ section{
     text-decoration: underline;
 }
 
+.box a {
+    font-size: 2rem;
+    color: var(--primary);
+}
+.box a:hover {
+    color: var(--secondary);
+}
+
 .footer .box-container .box .link:hover{
     color: var(--secondary);
     text-decoration: underline;
