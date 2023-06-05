@@ -177,7 +177,7 @@ section{
     text-align: center;
 }
 
-/* header end */
+/* Fim do header */
 
 /* home */
 
@@ -235,9 +235,9 @@ section{
     display: inline-block;
 }
 
-/* home end */
+/* fim da home */
 
-/* speaciality */
+/* Epecialidade */
 
 .special{
     background: var(--bg-color);
@@ -287,9 +287,9 @@ section{
     color: var(--secondary);
 }
 
-/* speaciality end*/
+/* Fim da especialidade*/
 
-/* about */
+/* Sobre nós */
 
 .about .row{
     display: flex;
@@ -328,7 +328,7 @@ section{
     line-height: 2;
 }
 
-/* about end*/
+/* Fim do sobre nós*/
 
 /* menu */
 
@@ -392,9 +392,9 @@ section{
     color: var(--secondary);
 }
 
-/* menu end */
+/* Fim do menu  */
 
-/* dessert */
+/* Sobremesa */
 
 .dessert{
     background: var(--bg-color);
@@ -456,9 +456,9 @@ section{
     text-decoration: line-through;
 }
 
-/* dessert end */
+/* Fim Sobremesa */
 
-/* gallery */
+/* Galeria */
 
 .gallery .box-container{
     display: flex;
@@ -506,9 +506,9 @@ section{
     padding: 1rem 0;
 }
 
-/* gallery end*/
+/* Fim da galeria*/
 
-/* review */
+/* Comentarios */
 
 .review{
     background: var(--bg-color);
@@ -551,9 +551,9 @@ section{
     font-size: 1.7rem;
 }
 
-/* review end*/
+/* Fim dos comentarios*/
 
-/* order */
+/* Pedido */
 
 .order .row{
     display: flex;
@@ -600,7 +600,7 @@ section{
     width: 100%;
 }
 
-/* order end */
+/* Fim do Pedido */
 
 /* footer */
 
@@ -685,9 +685,9 @@ section{
     color: var(--secondary);
 }
 
-/* footer end */
+/* Fim footer */
 
-/* media  queries*/
+/* media queries (responsivo)*/
 
 @media (max-width: 991px) {
 
